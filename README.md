@@ -16,7 +16,7 @@ This project implements a Binarized Neural Network (BNN) for MNIST digit classif
 ---
 
 ## Folder Structure
-'''
+```
 ├── HLScodes/
 │ ├── High-Level Synthesis (HLS) codes used for hardware acceleration on PYNQ-Z2
 │ └── Testbenches for verifying functionality
@@ -26,7 +26,7 @@ This project implements a Binarized Neural Network (BNN) for MNIST digit classif
 │ └── Based on: https://github.com/Akashmathwani/Binarized-Neural-networks-using-pytorch
 │
 └── final_report - Final project report with top-level diagram and design motivations
-'''
+```
 ---
 
 ## Reference
